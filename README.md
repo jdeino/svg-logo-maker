@@ -34,7 +34,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
 ## Demo
-[Demo]https://drive.google.com/file/d/16tcUJsNGJO96Eb_Rrmy1ZzU_lqFYm4d0/view
+[Demo][https://drive.google.com/file/d/16tcUJsNGJO96Eb_Rrmy1ZzU_lqFYm4d0/view](https://drive.google.com/file/d/1jOUGybC4QLX8dXzMoeDY_lyi8z0pl2lV/view)
 
 ## Questions
 For any questions about this project, contact me at josh.deino91@yahoo.com. You can find more of my work at https://github.com/jdeino.
