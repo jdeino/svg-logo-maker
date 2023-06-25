@@ -7,7 +7,6 @@ I have created a command line application that generates custom logos and saves 
   - [Description](#description)
   - [Installation](#installation)
   - [Demo](#demo)
-  - [Acceptance Criteria](#acceptancecriteria)
   - [Questions](#questions)
 
 ## Installation
