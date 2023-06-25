@@ -34,3 +34,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demo
 [Demo]https://drive.google.com/file/d/16tcUJsNGJO96Eb_Rrmy1ZzU_lqFYm4d0/view
+
+## Questions
+For any questions about this project, contact me at josh.deino91@yahoo.com. You can find more of my work at [jdeino](https://github.com/jdeino)https://github.com/jdeino.
